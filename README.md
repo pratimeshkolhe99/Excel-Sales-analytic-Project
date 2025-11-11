@@ -16,7 +16,7 @@ This project is a comprehensive Sales Analytics Dashboard built in Microsoft Exc
 * Slicers & Timelines for Interactivity
 * Conditional Formatting
 * Power Pivots
-* Data Modelling
+* Data Modeling
 * Formulas: VLOOKUP, INDEX-MATCH, SUMIFS, AVERAGEIFS, etc.
 * Data Visualization: Bar charts, line charts, and KPI cards
 * Data Cleaning & Transformation using Power Query
