@@ -34,5 +34,5 @@ This project is a comprehensive Sales Analytics Dashboard built in Microsoft Exc
 
 📧 [pratimeshkolhe99@gmail.com]
 
-🔗 [www.linkedin.com/in/pratimesh-kolhe-1aa147136] | [Portfolio/GitHub Profile]
+🔗 [www.linkedin.com/in/pratimesh-kolhe-1aa147136] | [[Portfolio/GitHub Profile](https://github.com/pratimeshkolhe99/Excel-Sales-analytic-Project)]
 
